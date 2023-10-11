@@ -12,6 +12,8 @@ p {
     height: 25px;
     top: calc( 100vh - 30px );
     text-shadow: 0 0 2px white;
+    top: 20%;
+    left: 0%
 }
 
 p a {
